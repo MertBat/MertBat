@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
-<h3 align="center">A passionate front-end developer with knowledge of Angular framework and enthusiastic about different technologies</h3>
+<h3 align="center">A passionate full stack developer with knowledge of Angular, React, .Net, and enthusiastic about different technologies</h3>
 
-- 🌱 I’m currently learning Backend **.Net, OOP, EF Core, Microsoft SQL Server**
+- 🌱 I keep improving myself on technologies .Net, React, Angular...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
